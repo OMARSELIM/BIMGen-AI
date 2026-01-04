@@ -1,0 +1,5 @@
+{
+  "name": "BIMGen AI",
+  "description": "An AI-powered BIM Execution Plan (BEP) generator and analyzer. Create comprehensive BEPs in minutes and compare existing plans against ISO standards.",
+  "requestFramePermissions": []
+}
